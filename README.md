@@ -5,3 +5,10 @@ This document serves as a summary of Apache Kafka, outlining its key features, a
 ## Question
 
 If you have any questions, please reach out to me at reynard.satria@gmail.com.
+
+## Installation
+
+Clone the repository:
+
+    git clone https://github.com/ReynardChristiansen/ApacheKafka_Note.git
+
